@@ -1,0 +1,119 @@
+
+.page-header {
+	
+}
+
+body {
+	background-color: #FFF;
+	color: #635c62;
+	font-size: 16pt;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48pt;
+	color: #30C5FF;
+	font-weight: lighter;
+}
+
+#timer-counter {
+	font-size: 90pt;
+	font-weight: bolder;
+	color: #30C5FF;
+	text-align: center;
+}
+
+
+#question {
+	padding: 24px;
+	font-size: 36pt;
+	font-weight: bolder;
+	
+}
+
+#ricky {
+	background-color: #FF7272;
+	background-blend-mode: overlay;
+	height: 140px;
+	width: 140px;
+	border-radius: 50%;
+	background-image: url(http://funny.promarketme.com/wp-content/uploads/2016/01/ricky-520x245.jpg);
+	background-size: cover;
+	background-position: -420px;
+	left; 0;
+}
+
+#ricky:hover{
+	background-color:rgba(0,0,0,0.00);
+
+}
+
+#bobby {
+	background-image: url(http://n.sinaimg.cn/ent/transform/20170809/Qe8V-fyitpmh5544771.jpg);
+  	background-size: cover;
+	height: 140px;
+	width: 140px;
+	border-radius: 50%;
+  	background-blend-mode:overlay;
+	background-color: #30C5FF;	
+	margin: 0 auto;	
+	left; 0;
+}
+
+#bobby:hover{
+	background-color: rgba(0,0,0,0.00);
+}
+
+#ricky-bobby {
+	background-color: #F4ED81;
+	background-blend-mode: overlay;
+	height: 140px;
+	width: 140px;
+	border-radius: 50%;
+	background-image: url(http://www.topcelebsjackets.com/wp-content/uploads/2017/03/Talladega-Nights-Wonder-Bread-Ricky-Bobby-Jacket-6-570x708.jpg);
+	background-size: cover;
+	left; 0;
+}
+
+#ricky-bobby:hover{
+	background-color: rgba(0,0,0,0.00);
+}
+
+#timer-text {
+	background-color: #30C5FF;
+	color: #FFF;
+	font-size: 36pt;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.footer{
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	color: #30C5FF;
+	padding: 24px;
+	font-family: Verdana,sans-serif;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.red {
+	color: #FF7272;
+
+.24 {
+		font-size: 12pt;
+	}
+.spacer {
+	height: 106px;
+}
+
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+
